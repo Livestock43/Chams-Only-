@@ -1,3 +1,6 @@
+
+*Mainly made for FFA use*
+
 See Userscript for note(s)
 
 Created by: THEGUY3DS
