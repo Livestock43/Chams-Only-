@@ -2,7 +2,7 @@
 // @name         ESP By - THEGUY3DS - Edited By - Livestock43 (Chams Only)
 // @namespace    github.com/Livestock43 / github.com/THEGUY3DS
 // @version      1.9.2
-// @description  Basic Name ESP Only
+// @description  Chams Only
 // @author       THEGUY3DS (kudos)
 // @match        https://krunker.io/*
 // @grant        none
